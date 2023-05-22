@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://m.economictimes.com/thumb/msid-100281493,width-1200,height-900,resizemode-4,imgsize-14062/banks-request-rbi-for-more-time-for-new-loan-provisioning-system.jpg" alt="Image Description" width="300" height="200">
 </p>
-
+ 
 <h2>📝 Description</h2>
 Welcome to the "Banking Churn Analysis and Modeling" repository! This project focuses on analyzing customer churn in the banking sector and building predictive models for identifying and mitigating churn. The repository contains code, datasets, and documentation to help you understand and implement churn analysis in the banking industry.
 
