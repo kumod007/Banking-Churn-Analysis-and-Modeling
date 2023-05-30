@@ -11,6 +11,7 @@ Welcome to the captivating "Banking Churn Analysis and Modeling" repository! Her
 
 <h3>📝 Repository Content:</h3>
 
+
 1. **Bank churn.csv - Dataset**: This carefully curated dataset provides the foundation for analyzing customer churn in the banking sector. Dive into the data to uncover patterns, trends, and key indicators of churn.
 
 2. **Banking Churn Dashboard.pbix**: Immerse yourself in the power of data visualization with our interactive Power BI dashboard. Explore insightful visualizations and metrics that shed light on customer churn behavior, helping you make informed decisions.
