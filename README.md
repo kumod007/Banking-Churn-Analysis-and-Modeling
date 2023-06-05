@@ -7,6 +7,7 @@
 <h2>📝 Description</h2>
 Welcome to the captivating "Banking Churn Analysis and Modeling" repository! Here, we dive deep into the intriguing world of customer churn within the banking sector. This project is dedicated to analyzing churn patterns, constructing predictive models, and creating dynamic Power BI reports. Within this repository, you'll find an array of valuable resources, including code snippets, datasets, comprehensive reports, interactive dashboards, and documentation. The aim is to equip you with the knowledge and tools to effectively implement churn analysis in the banking industry. Join me on this transformative journey as we unravel the secrets of customer retention and empower banks to thrive.
 
+
 ---
 
 <h3>📝 Repository Content:</h3>
